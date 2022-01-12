@@ -1,0 +1,6 @@
+{
+    "[markdown]": {
+        "editor.quickSuggestion": false
+    },
+    "workbench.settings.useSplitJSON": true
+}
